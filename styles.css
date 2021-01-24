@@ -1,0 +1,127 @@
+html {
+    font-family: "Calibri", serif;
+    font-size: 16px;
+    margin: 20px;
+    color: white;
+    background-color:silver;
+    margin: 20px;
+    padding: 20px;
+}
+
+colorsection {
+
+}
+
+.colors {
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+
+}
+
+.row1 {
+
+}
+
+.row2 {
+
+}
+
+.pewter {
+    background-color: #848484;
+}
+
+.ferngreen {
+    background-color: #969E7E;
+}
+
+.bluegreen {
+    background-color: #7BAC94;
+}
+
+.grape {
+    background-color: #946083;
+}
+
+.violet {
+    background-color: #633666;
+}
+
+.eggplant {
+    background-color: #3E314B;
+}
+
+fontsection {
+    
+}
+
+.fonts {
+    display: flex;
+    justify-content:space-around;
+    align-content: space-around;
+    align-items: center;
+
+}
+
+.garamond {
+    font-family: "EB Garamond", serif;
+}
+
+.font1 {
+    font-style: normal;
+}
+
+.font2 {
+    font-style: italic;
+}
+
+.font3 {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.font4 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+}
+
+.robotomono {
+    font-family: "Roboto Mono", monospace;
+}
+
+
+
+
+textstyles {
+
+}
+
+.h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.p {
+    font-family: "EB Garamond", serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.code {
+    font-family: "Roboto Mono", monospace;
+    font-weight: normal;
+    font-size: 16px;
+}
