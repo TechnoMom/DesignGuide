@@ -9,7 +9,7 @@ html {
 }
 
 colorsection {
-
+    width: 100%;
 }
 
 .colors {
@@ -20,11 +20,11 @@ colorsection {
 }
 
 .row1 {
-
+    width: 32%;
 }
 
 .row2 {
-
+    width: 32%;
 }
 
 .pewter {
