@@ -21,10 +21,14 @@ colorsection {
 
 .row1 {
     width: 32%;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .row2 {
     width: 32%;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .pewter {
