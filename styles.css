@@ -21,38 +21,46 @@ colorsection {
 
 .row1 {
     width: 32%;
-    margin 20px;
-    border: 2px solid white;
 }
 
 .row2 {
     width: 32%;
-    margin 20px;
-    border: 2px solid white;
 }
 
 .pewter {
     background-color: #848484;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .ferngreen {
     background-color: #969E7E;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .bluegreen {
     background-color: #7BAC94;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .grape {
     background-color: #946083;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .violet {
     background-color: #633666;
+    margin 20px;
+    border: 2px solid white;
 }
 
 .eggplant {
     background-color: #3E314B;
+    margin 20px;
+    border: 2px solid white;
 }
 
 fontsection {
