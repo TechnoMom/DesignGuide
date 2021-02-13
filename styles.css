@@ -79,6 +79,15 @@ fontsection {
     font-family: "EB Garamond", serif;
 }
 
+
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+}
+
+.robotomono {
+    font-family: "Roboto Mono", monospace;
+}
+
 .font1 {
     font-style: normal;
 }
@@ -96,17 +105,6 @@ fontsection {
     font-style: italic;
     font-weight: bold;
 }
-
-
-
-.montserrat {
-    font-family: "Montserrat", sans-serif;
-}
-
-.robotomono {
-    font-family: "Roboto Mono", monospace;
-}
-
 
 
 
